@@ -1,3 +1,5 @@
+**简体中文** | [English](README.en.md)
+
 # Amazon Review Analytics Pro
 专业的亚马逊评论数据分析平台
 
@@ -306,4 +308,3 @@ python clean_cache.py
 ---
 
 **诸事顺利 身体健康** 
-
